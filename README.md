@@ -5,7 +5,7 @@
   <p align="center">
     Open-source scheduling and event coordination platform  
     <br />
-    <a href="https://schedlyx.vercel.app"><strong>Live Demo</strong></a>
+    <a href="https://schedlyx-fyi.vercel.app"><strong>Live Demo</strong></a>
     ·
     <a href="https://github.com/fyiclub-vitb/Schedlyx/issues">Issues</a>
     ·
