@@ -264,14 +264,6 @@ export function Home() {
           <p className="text-xl text-primary-100 mb-8">
             Join thousands of users who trust Schedlyx for their scheduling needs.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link to="/signup" className="bg-white text-primary-600 font-semibold px-8 py-3 rounded-lg hover:bg-gray-100 transition-colors inline-block">
-              Start Free Today
-            </Link>
-            <Link to="/dashboard" className="bg-primary-700 text-white font-semibold px-8 py-3 rounded-lg hover:bg-primary-800 transition-colors inline-block border-2 border-white/20">
-              View Demo
-            </Link>
-          </div>
         </div>
       </div>
     </div>
